@@ -3,9 +3,9 @@
 ####  Steps To Solving A Quadratic Equation
 
 ## Method 1 : Factorization
-Let you have an equation 2x^2+5x+2=0
+Lets you have an equation 2x^2+5x+2=0
 
-• To factor the equation first use factor of the x^2 term and constant term 2 then multiply them and add up with the x term.
+• To factorize the equation, first use factor of the x^2 term and constant term 2 then multiply them and add them up with the x term.
 Here 2x^2*2=4x^2 and can be written as 4x+x. 5x can also be written as 4x+x .So the equation becomes 2x^2+4x+x+2=0
 
 • Take a common term of the equation. The equation becomes 2x(x+2)+1(x+2)=0
@@ -26,11 +26,11 @@ And
 
 • The roots of your equation are x=-2 and x= -1/2
 
-• For cross check your answer multiply (x+2)(2x+1)=0
+• To cross check your answer multiply (x+2)(2x+1)=0
 =>2x^2+x+4x+2=0
 =>2x^2+5x+2=0
 
-• If your equation is in the form of 2x^2+9x =-2+4x. First simplify equation the in the form of general quadratic equation.
+• If your equation is in the form of 2x^2+9x =-2+4x. First simplify the equation in the form of general quadratic equation.
 
 • Take all the term one side.
 =>2x^2+9x+2-4x=0
@@ -42,11 +42,11 @@ And
 
 ## Method 2 : Using the Quadratic Formula
 
-When it is difficult to factor the equation use quadratic formula. The quadratic equation is ax^2+bx+c=0
+When it is difficult to factorize the equation use quadratic formula. The quadratic equation is ax^2+bx+c=0
 then the quadratic formula is:
 x= [-b±v(b^2-4ac)]/[2a]
 
-Let you have an equation x^2-6x+3=0
+Allows you to have an equation x^2-6x+3=0
 • Compare your equation x^2-6x+3=0 with general form ax^2+bx+c=0.
 
 • Identify the value of a, b and c. Variable a is the coefficient of x^2, b is the coefficient of x and c is constant. Here a=1 ,b= -6 and c=3.
@@ -64,7 +64,7 @@ Let you have an equation x^2-6x+3=0
 =>x=[3+v6]
 =>x=[3-v6]
 
-Online Algebra Tutor provide you step by step explanation on Algebra topics.
+Online Algebra Tutorial provides you with step by step explanation on Algebra topics.
 
 ## Method 3 : By Completing the Square
 
@@ -98,7 +98,7 @@ Let you have an equation 2x^2-8x-9 = 0
 =>x = 2+v(17/2)
 =>x = 2-v(17/2)
 
-Important points:
+## Important points:
 
 1. If x^2 or x term has no coefficient, then the coefficient is always 1.
 
